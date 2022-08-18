@@ -12,7 +12,7 @@ if __name__ == "__main__":
     Estamos hablando del conductor.
     Por ultimo el objeto car se crea con su respectiva placa y conductor.
     '''
-    car = Car("AMZ456",Account("Erick","5465643","edeajob27@gmail.com","123456789"))
+    car = Car("AMZ456",Account("Erick","5465643","edea27@gmail.com","123456789"))
     print(vars(car))
     print(vars(car.driver))
 
